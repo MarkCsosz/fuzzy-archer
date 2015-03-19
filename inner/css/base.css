@@ -1,0 +1,40 @@
+body{
+    font-family: Verdana, Geneva, sans-serif;
+    background: #e0e0e0;
+    color: #001F00;
+    
+}
+
+h1{
+  font-size: 44px;  
+}
+
+p{
+  font-size: 22px;  
+}
+
+#content{
+    width: 900px;
+}
+
+#test{
+    position: absolute;
+    text-align: left;
+    width: 420px;
+    float: left;
+}
+
+#test h1{
+    text-align: center;
+    
+}
+
+#picture{
+    position: absolute;
+    left: 440px;
+    top: 120px;
+}
+
+#picture img {
+width: 420px;
+}
